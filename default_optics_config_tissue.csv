@@ -1,0 +1,4 @@
+Channel Name,Channel Index,Exposure,Filter,Intensity
+FAM,3,0.1,2,100
+Cy3,5,0.1,3,100
+Cy5,6,0.04,3,100
